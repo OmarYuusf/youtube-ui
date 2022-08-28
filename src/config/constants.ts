@@ -1,0 +1,1 @@
+export const YOUTUBE_SEARCH_API = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyDV2AJd_d_pQ16K7rdb_IbjqaOlS2cNJuc&part=snippet`
